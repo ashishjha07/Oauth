@@ -1,0 +1,14 @@
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EmployeeManagement.dll
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\source\ExamRoom_Test\EmployeeManagement\obj\Debug\EmployeeManagement.csprojAssemblyReference.cache
+C:\source\ExamRoom_Test\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\source\ExamRoom_Test\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+C:\source\ExamRoom_Test\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\AutoMapper.dll
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EmployeeManagementRepo.dll
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EntityFramework.dll
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EmployeeManagementRepo.pdb
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EmployeeManagementRepo.dll.config
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\AutoMapper.xml
+C:\source\ExamRoom_Test\EmployeeManagement\bin\Debug\EntityFramework.xml
+C:\source\ExamRoom_Test\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CopyComplete
